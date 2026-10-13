@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="hi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>श्री गंगावा बायोसा धाम - आधिकारिक वेबसाइट</title>
+    <style>
+        :root {
+            --primary: #800000;
+            --secondary: #d4af37;
+            --dark: #2c3e50;
+            --light: #f9f9f9;
+        }
+        * { box-sizing: border-box; margin: 0; padding: 0; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; }
+        body { background-color: var(--light); color: var(--dark); line-height: 1.6; }
+        header { background: linear-gradient(rgba(128,0,0,0.85), rgba(128,0,0,0.95)), url('temple-bg.jpg') center/cover; color: white; text-align: center; padding: 60px 20px; border-bottom: 5px solid var(--secondary); }
+        header h1 { font-size: 2.5rem; margin-bottom: 10px; color: var(--secondary); text-shadow: 2px 2px 4px rgba(0,0,0,0.6); }
+        header p { font-size: 1.2rem; font-style: italic; }
+        
+        nav { background-color: #5a0000; position: sticky; top: 0; z-index: 1000; text-align: center; }
+        nav a { display: inline-block; color: white; padding: 15px 20px; text-decoration: none; font-weight: bold; transition: 0.3s; }
+        nav a:hover { background-color: var(--secondary); color: var(--primary); }
+
+
+        .container { max-width: 1100px; margin: 30px auto; padding: 0 20px; }
+        section { background: white; padding: 40px; margin-bottom: 30px; border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.05); border-left: 5px solid var(--primary); }
+        h2 { color: var(--primary); margin-bottom: 20px; border-bottom: 2px solid #eee; padding-bottom: 10px; }
+        
+        .doha { background: #fff8e7; border: 1px dashed var(--secondary); padding: 20px; text-align: center; font-size: 1.2rem; font-weight: bold; color: #5a0000; margin: 20px 0; border-radius: 5px; }
+        
+        table { width: 100%; border-collapse: collapse; margin: 20px 0; background: #fff; }
+        table, th, td { border: 1px solid #ddd; }
+        th, td { padding: 12px; text-align: left; }
+        th { background-color: var(--primary); color: white; }
+        tr:nth-child(even) { background-color: #f2f2f2; }
+        
+        .timings { background: #fdf6e2; padding: 20px; border-radius: 5px; margin-top: 15px; }
+        .timings ul { list-style-type: none; }
+        .timings li { margin-bottom: 10px; font-size: 1.1rem; }
+        .timings strong { color: var(--primary); }
+
+
+        footer { background-color: var(--primary); color: white; text-align: center; padding: 20px; margin-top: 50px; border-top: 4px solid var(--secondary); }
+        footer p { font-size: 0.9rem; }
+    </style>
+</head>
+<body>
+
+
+    <header>
+        <h1>श्री गंगावा बायोसा धाम (गांगावास)</h1>
+        <p>500 वर्षों का गौरवशाली चारण इतिहास, गौ-रक्षा की अमर गाथा और माँ आवड बायोसा की असीम कृपा</p>
+    </header>
+
+
+    <nav>
+        <a href="#home">गृह पृष्ठ</a>
+        <a href="#history">प्रामाणिक इतिहास</a>
+        <a href="#temple">माँ बायोसा मंदिर</a>
+        <a href="#majibaji">माजी-बाजी गाथा</a>
+    </nav>
+
+
+    <div class="container">
+        
+        <!-- गृह पृष्ठ -->
+        <section id="home">
+            <h2>जय माँ आवड बायोसा</h2>
+            <p>मारवाड़ की पावन धरा पर स्थित <strong>गांगावास (वर्तमान नाम: गंगावा)</strong> मात्र एक गाँव नहीं, बल्कि राजपूताने के इतिहास, चारण संस्कृति और सनातन धर्म की जीवंत विरासत है। ईस्वी सन 1518 (विक्रम संवत 1575) में स्थापित यह गाँव देवल शाखा के चारणों की अटूट भक्ति और चौहान शासकों के ऐतिहासिक भूमि-दान का साक्षी है।</p>
+            <div class="doha">
+                "समत सोलो सरल बरस, तेसटो मेजवातमः माहा महीनो रत हेम, शुक्ल पक्ष तथ सातम।<br>
+                पातल राव पसाण, वले गजनीखान बिहारी; गांगा वास दियाम, अरठ पंद्रे एक सारी।।"
+            </div>
+        </section>
+
+
+        <!-- प्रामाणिक इतिहास -->
+        <section id="history">
+            <h2>📜 गांगावास का प्रामाणिक इतिहास और साक्ष्य</h2>
+            <p>ऐतिहासिक ग्रंथ <strong>'जालौर रे प्रगना री विगत' (पृष्ठ 52)</strong> और <strong>'चौहान कुल कल्पद्रुम'</strong> के अनुसार इस जागीर का इतिहास दो मुख्य चरणों में बंटा हुआ है:</p>
+            
+            <table>
+                <thead>
+                    <tr>
+                        <th>ऐतिहासिक प्रमाण</th>
+                        <th>उल्लेखित विवरण और जागीर</th>
+                        <th>ऐतिहासिक कालखंड</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td><strong>गांगा वालोतर चौहान का दान</strong></td>
+                        <td>चारण रायमल जी देवल (पौत्र श्री देईदान जी) को ₹200 की रेख और 3 अरट (कुएं) के साथ गांगावास गांव सासण (कर-मुक्त) जागीर में दिया।</td>
+                        <td>विक्रम संवत 1575 (1518 ईस्वी)</td>
+                    </tr>
+                    <tr>
+                        <td><strong>राव पसाण चौहान का विस्तार</strong></td>
+                        <td>जालौर के गजनी खान बिहारी के पक्ष में जाने पर पसाण चौहान ने खुश होकर रायमल जी को 15 अरट और 1500 बीघा जमीन अतिरिक्त प्रदान की।</td>
+                        <td>विक्रम संवत 1663 (1606 ईस्वी)</td>
+                    </tr>
+                </tbody>
+            </table>
+            <p><em>*गाँव के पास आज भी इसका मूल हस्तलिखित ताम्रपत्र भौतिक साक्ष्य के रूप में सुरक्षित है।</em></p>
+        </section>
+
+
+        <!-- माँ बायोसा मंदिर -->
+        <section id="temple">
+            <h2>🛕 श्री माँ आवड बायोसा मंदिर</h2>
+            <p><strong>प्राकट्य इतिहास:</strong> करीब 400 साल पहले गंगावा गांव के मूल पुरुष रायमल दान जी चारण के वंशज को माँ ने स्वप्न में दर्शन देकर बताया कि समीप के कुएं में उनकी मूर्ति है। कुएं से जो अलौकिक मूर्ति निकली, उस पर <strong>7 देवियों की आकृतियाँ</strong> उकेरी हुई हैं, जो साक्षात माँ आवड का स्वरूप हैं।</p>
+            
+            <p><strong>जीर्णोद्धार:</strong> 7 मार्च 1999 को संत रामानंद सरस्वती महाराज की उपस्थिति में मंदिर के नए गुंबददार ढांचे की प्राण प्रतिष्ठा की गई। वर्तमान में इसका संचालन 'श्री गंगावा बायोसा विकास ट्रस्ट' द्वारा किया जाता है।</p>
+            
+            <div class="timings">
+                <h3>⏰ मंदिर की समय-सारणी एवं उत्सव:</h3>
+                <ul>
+                    <li>• <strong>प्रभात आरती:</strong> प्रतिदिन सुबह 7:00 से 7:30 बजे</li>
+                    <li>• <strong>संध्या आरती:</strong> प्रतिदिन शाम 7:00 से 7:30 बजे</li>
+                    <li>• <strong>वार्षिक मेला:</strong> प्रतिवर्ष भाद्रपद माह की द्वादशी (12वीं) को भव्य जागरण एवं त्रयोदशी (13वीं) को विशाल मेला आयोजित होता है।</li>
+                </ul>
+            </div>
+        </section>
+
+
+        <!-- माजी बाजी गाथा -->
+        <section id="majibaji">
+            <h2>🛡️ माजी बाजी इतिहास - गौ रक्षा की अमर गाथा</h2>
+            <p>यह इतिहास किताबों से इतर गाँव की माटी और परंपराओं में अमर है। <strong>माजी सुकृताबाई</strong> और <strong>बाजी आवड़दान जी चारण</strong> ने गायों की रक्षा (गौ-हितार्थ) करते हुए अपने प्राणों की आहुति दी और सती हुए।</p>
+            <p>गाँव की गायों और गोचर की रक्षा के इस सर्वोच्च बलिदान के प्रति कृतज्ञता प्रकट करने के लिए संपूर्ण ग्रामवासियों ने उनका पावन 'थान' (स्मारक) बनाया। आज भी गाँव का हर शुभ कार्य माजी-बाजी को धोक लगाने के बाद ही शुरू होता है।</p>
+        </section>
+
+
+    </div>
+
+
+    <footer>
+        <p>© श्री गंगावा बायोसा विकास ट्रस्ट - गांगावास (गंगावा), जालौर, राजस्थान</p>
+        <p>इतिहास संकलन: दिग्विजय सिंह (दुर्गाखेड़ा) एवं ग्रामवासी</p>
+    </footer>
+
+
+</body>
+</html>
+
